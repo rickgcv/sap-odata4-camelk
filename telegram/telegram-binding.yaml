@@ -16,7 +16,7 @@ spec:
       kind: Kamelet
       name: telegram-source
     properties:
-      authorizationToken: REPLACE ME
+      authorizationToken: 1742898220:AAH9a3qNgI0ZvAihkdmdoQfKpb9Tc4P5VPg
   sink:
     ref:
       apiVersion: messaging.knative.dev/v1

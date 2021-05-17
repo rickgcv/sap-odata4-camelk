@@ -23,7 +23,7 @@ spec:
         title: Service URI
         description: Target OData service base URI
         type: string
-        example: https://sapes5.sapdevcenter.com/sap/opu/odata4/sap/ze2e001/default/sap/ze2e001_salesorder/0001/
+        example: https://150.239.16.200/sap/opu/odata4/sap/ze2e002/default/sap/ze2e001_salesorder/0001/
   types:
     out:
       mediaType: application/json
