@@ -20,7 +20,7 @@ spec:
   source:
     properties:
       channel: sales-order
-      token: REPLACE ME
+      token: xoxb-1839506170129-1833244751653-WAQB2STjZ9mqofc8vg2eujco
     ref:
       apiVersion: camel.apache.org/v1alpha1
       kind: Kamelet
